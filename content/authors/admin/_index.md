@@ -31,7 +31,7 @@ education:
   - course: Computer Engineering
     institution: Universidad Nacional Autónoma de México
     year: 2020
-  - course: Technical career in Computing.
+  - course: Technical career in Computing
     institution: Preparatoria no. 9
     year: 2017
   - course: Highschool
