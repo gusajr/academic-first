@@ -36,12 +36,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Clinical software for following patients"
+  title = "Clinical software for following clinical patients information"
   company = "Sanatorio de oriente"
   company_url = ""
   location = "México"
   date_start = "2019-10-01"
   date_end = "2020-02-01"
-  description = """Development of CRUD web app to replace the old system of patients storage information"""
+  description = """Development of CRUD web app to replace the old system of patients storaged information"""
 
 +++
