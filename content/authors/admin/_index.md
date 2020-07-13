@@ -72,4 +72,4 @@ user_groups:
 ---
 
 
-  I'm a Computer Engineer interested in change about technologies. I love knowing new things about web developing, mobile applications, database management and testing of new programming languages. I'm currently student at UNAM in seventh semester, but never stop there. I love mathematics and logics, always finding an answer for everything.
+  I'm a Computer Engineer interested in change about technologies. I love knowing new things about web developing, mobile applications, database management and testing of new programming languages. Currently, I'm student at UNAM in seventh semester, but never stop there. I love mathematics and logics, always finding an answer for everything.

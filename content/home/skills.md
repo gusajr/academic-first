@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python, SQL"
+  name = "SQL"
   description = ""  
 
 [[feature]]
   icon = "js"
   icon_pack = "fab"
-  name = "Javascript, CSS, HTML5"
+  name = "Javascript, CSS, HTML5, SQL"
   description = ""  
 
 [[feature]]

@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   Development of Angular web app for personal purposes
 
-  Responsibilities include:
+  The responsibilities were:
   
   * Analysing
   * Modelling
@@ -36,10 +36,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Clinical software for following clinical patients information"
+  title = "Clinical software for clinical patients information"
   company = "Sanatorio de oriente"
   company_url = ""
-  location = "México"
+  location = "CDMX"
   date_start = "2019-10-01"
   date_end = "2020-02-01"
   description = """Development of CRUD web app to replace the old system of patients storaged information"""
