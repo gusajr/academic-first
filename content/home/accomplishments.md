@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Analytics ML&AI / Core Services"
   url = ""
   certificate_url = ""
-  date_start = "2020"
-  date_end = "2020"
+  date_start = "2020-08-25"
+  date_end = "2020-08-25"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "HTML, CSS and Javascript"
   url = ""
   certificate_url = ""
-  date_start = "2020"
-  date_end = "2020"
+  date_start = "2019-12-01"
+  date_end = "2020-08-01"
   description = ""
 
 [[item]]
