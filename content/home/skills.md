@@ -35,11 +35,11 @@ subtitle = ""
 [[feature]]
   icon = "js"
   icon_pack = "fab"
-  name = "HTML5, CSS, Javascript"
+  name = "HTML5, CSS, Javascript, php"
   description = ""  
 
 [[feature]]
-  icon = "database"
+  icon = "buffer"
   icon_pack = "fab"
   name = "SQL and Firebase"
   description = "" 
