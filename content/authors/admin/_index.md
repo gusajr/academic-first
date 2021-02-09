@@ -14,7 +14,7 @@ role: Computer Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: UNAM
+- name: Uiversidad Nacional Autónoma de México
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,12 +30,12 @@ education:
   courses:
   - course: Computer Engineering
     institution: Universidad Nacional Autónoma de México
-    year: 2020
+    year: 2021
   - course: Technical career in Computing
-    institution: Preparatoria no. 9
+    institution: Escuela Nacional Preparatoria "Pedro de Alba" No. 9
     year: 2017
   - course: Highschool
-    institution: Preparatoria no. 9
+    institution: Escuela Nacional Preparatoria "Pedro de Alba" No. 9
     year: 2017
 
 # Social/Academic Networking
@@ -45,7 +45,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  mailto:gucho35.en9@gmail.com
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,5 +72,9 @@ user_groups:
 - Visitors
 ---
 
-
-  I'm a Computer Engineer interested in change about technologies. I love knowing new things about web developing, mobile applications, database management and testing of new programming languages. Currently, I'm student at UNAM in seventh semester, but never stop there. I love mathematics and logics, always finding an answer for everything.
+  I'm a Computer Engineer focused on technology development. I consider
+  myself very experienced in new things about web developing, mobile
+  applications, database management and testing of new programming
+  languages. I'm currenty studying the seventh semester of my
+  undergraduated degree at UNAM. However, I never stop there, I enjoy
+  mathematics and logics, always finding an answer for everything.
