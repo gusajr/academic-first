@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Development of Android apps"
+  title = "Development of Android apps (Java, Nodejs and Firebase)"
   url = ""
   certificate_url = ""
   date_start = "2017-06-01"
