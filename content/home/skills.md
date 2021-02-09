@@ -45,7 +45,7 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "node"
+  icon = "server"
   icon_pack = "fab"
   name = "Nodejs"
   description = "" 
