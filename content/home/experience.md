@@ -18,6 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Small Artificial Intelligence Tool"
+  company = ""
+  company_url = ""
+  location = "CDMX"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = """An online tool which helps to analyze data with ML algorithms such as Apriori, Association rules, Simility metrics and Logistic Regresion"""
+
+[[experience]]
+  title = "Stock exchange predictor software development"
+  company = "Private"
+  company_url = ""
+  location = "CDMX"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """A software that implements prediction methods to know the stock exchange data"""
+
+[[experience]]
+  title = "Second place on Amazon Web Services Hackathon"
+  company = "Amazon Web Services"
+  company_url = ""
+  location = "CDMX"
+  date_start = "2020-10-01"
+  date_end = "2020-10-20"
+  description = """Development of MVP related with mexican transportation in pandemic time"""
+
+[[experience]]
   title = "Software development assesment"
   company = "Bosch México"
   company_url = ""
@@ -26,13 +53,14 @@ date_format = "Jan 2006"
   date_end = "2020-02-01"
   description = """
 
-  Development of Angular web app for personal purposes
+  Development of web app for personal purposes
 
   The responsibilities were:
   
   * Analysis
   * Modelling
   * Deploying
+  
   """
 
 [[experience]]
