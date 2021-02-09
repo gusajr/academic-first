@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   The responsibilities were:
   
-  * Analysing
+  * Analysis
   * Modelling
   * Deploying
   """
