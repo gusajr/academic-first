@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "java"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Java, C, C++"
+  name = "R"
   description = ""
 
 [[feature]]
@@ -27,16 +27,28 @@ subtitle = ""
   description = ""  
 
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java, C, C++"
+  description = ""
+
+[[feature]]
   icon = "js"
   icon_pack = "fab"
-  name = "Javascript, CSS, HTML5, SQL"
+  name = "HTML5, CSS, Javascript"
   description = ""  
 
 [[feature]]
-  icon = "r-project"
+  icon = "database"
   icon_pack = "fab"
-  name = "R"
-  description = ""
+  name = "SQL and Firebase"
+  description = "" 
+
+[[feature]]
+  icon = "node"
+  icon_pack = "fab"
+  name = "Nodejs"
+  description = "" 
   
 # Uncomment to use emoji icons.
 # [[feature]]
